@@ -1,5 +1,6 @@
 # JekyllTest
-[post_root.md](post_root.md)
+[post root](post_root.md)
+[post 1](_posts/post_1.md)
 
 ## Welcome to GitHub Pages
 
